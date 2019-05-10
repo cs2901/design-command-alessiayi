@@ -7,4 +7,4 @@
 -  Kitchen Room Turn light on and off
 -  Ceiling Fan High and low
 -  Garage door open and close
--  Stereo of and close
+-  Stereo off and on
