@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-33.75595238095241" y="-179.0">command.Light</node>
+    <node x="-142.0" y="-11.0">command.RemoteControlTest</node>
+    <node x="-138.0" y="-100.0">command.LightOnCommand</node>
+    <node x="-269.50595238095235" y="-179.0">command.Command</node>
+    <node x="-338.0" y="-100.0">command.SimpleRemoteControl</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="command.LightOnCommand" target="command.Command">
+      <point x="-53.0" y="-14.5" />
+      <point x="-111.5" y="-120.0" />
+      <point x="-177.8392857142857" y="-120.0" />
+      <point x="36.66666666666666" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="229.0" y="214.0" />
+  <SelectedNodes>
+    <node>command.Light</node>
+    <node>command.RemoteControlTest</node>
+    <node>command.LightOnCommand</node>
+    <node>command.Command</node>
+    <node>command.SimpleRemoteControl</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
